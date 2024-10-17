@@ -1,0 +1,24 @@
+{
+    "name": "Template",
+    "description": "Template",
+    "params": [
+      {
+        "id": "key_id",
+        "name": "Key ID",
+        "type": "string",
+        "required": false
+      },
+      {
+        "id": "access_key",
+        "name": "Access Key",
+        "type": "string",
+        "required": false
+      },
+      {
+        "id": "region",
+        "name": "Region",
+        "type": "string",
+        "required": false
+      }
+    ]
+}
