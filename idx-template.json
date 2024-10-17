@@ -5,23 +5,17 @@
       {
         "id": "key_id",
         "name": "Key ID",
-        "type": "string",
-        "default": null,
-        "required": false
+        "type": "string"
       },
       {
         "id": "access_key",
         "name": "Access Key",
-        "type": "string",
-        "default": null,
-        "required": false
+        "type": "string"
       },
       {
         "id": "region",
         "name": "Region",
-        "type": "string",
-        "default": null,
-        "required": false
+        "type": "string"
       }
     ]
 }
